@@ -1,5 +1,5 @@
 
 .idea/
-test/.gradle/
-test/gradle/
+timepass/.gradle/
+timepass/gradle/
 *.class
